@@ -1,6 +1,6 @@
 # GitHub OSINT delta
 
-Generated: 2026-11-22T08:16:47Z
+Generated: 2026-11-23T08:41:12Z
 Organizations: Tawffik
 Signals: 0
 
